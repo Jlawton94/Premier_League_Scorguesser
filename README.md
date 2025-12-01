@@ -155,14 +155,3 @@ The system provides full Google Sheets automation:
 ## 📝 License
 
 This project is open source and available under the MIT License.
-
-## 🆘 Support
-
-For issues or questions:
-1. Check the documentation in `docs/`
-2. Review existing issues
-3. Create a new issue with detailed description
-
----
-
-**Built for FPL enthusiasts who want the most advanced prediction game possible! 🏆**
