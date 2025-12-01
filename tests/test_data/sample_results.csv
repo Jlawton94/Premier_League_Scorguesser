@@ -1,0 +1,9 @@
+gameweek,home_team,away_team,date,kickoff,match_prediction,home_score,away_score,finished
+1,Arsenal,Wolves,2025-08-16,15:00,Arsenal Favorites,2,1,TRUE
+1,Brighton,Man United,2025-08-16,15:00,Man United Slight Favorites,1,2,TRUE
+1,Liverpool,Ipswich,2025-08-17,16:30,Liverpool Strong Favorites,4,0,TRUE
+1,Newcastle,Southampton,2025-08-17,14:00,Newcastle Favorites,1,1,TRUE
+2,Aston Villa,Arsenal,2025-08-24,17:30,Arsenal Slight Favorites,0,3,TRUE
+2,Brighton,Man City,2025-08-24,15:00,Man City Strong Favorites,1,4,TRUE
+2,Everton,Tottenham,2025-08-24,15:00,Tottenham Favorites,1,2,TRUE
+2,Leicester,Crystal Palace,2025-08-24,15:00,Even Match,2,2,TRUE
